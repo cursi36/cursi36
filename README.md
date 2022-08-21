@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cursi36?tab=repositories](https://github.com/cursi36?tab=repositories)
 
-- 📝 I regularly write articles on [www.cursifrancesco.com](www.cursifrancesco.com)[https://medium.com/@cursious92](https://medium.com/@cursious92)[https://github.com/cursi36/CognitoShare](CognitoShare)
+- 📝 I regularly write articles on [www.cursifrancesco.com](www.cursifrancesco.com) | [https://medium.com/@cursious92](https://medium.com/@cursious92) | [https://github.com/cursi36/CognitoShare](CognitoShare)
 
 - 📫 How to reach me **cursifrancesco@gmail.com**
 
