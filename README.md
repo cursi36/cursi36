@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Cursi</h1>
-<h3 align="center">A passionate Mechanical Engineer wih intrests in Robotics and Machine Learning</h3>
+<h3 align="center">A passionate Mechanical Engineer wih interests in Robotics and Machine Learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cursi36" alt="cursi36" /></a> </p>
 
