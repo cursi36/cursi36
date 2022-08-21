@@ -15,8 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[https://github.com/cursi36/CognitoShare](https://github.com/cursi36/CognitoShare)
-[www.cursifrancesco.com](https://francescocursi.com/blog-2/)
+- [https://github.com/cursi36/CognitoShare](https://github.com/cursi36/CognitoShare)
+- [www.cursifrancesco.com](https://francescocursi.com/blog-2/)](https://francescocursi.com/blog-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
