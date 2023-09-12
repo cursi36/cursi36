@@ -9,7 +9,6 @@
 
 - 📝 I regularly write articles on [www.cursifrancesco.com](www.cursifrancesco.com) | [https://medium.com/@cursious92](https://medium.com/@cursious92)
 
-- 📫 How to reach me **cursifrancesco@gmail.com**
 
 - 📄 Know about my experiences [www.cursifrancesco.com](www.cursifrancesco.com)
 
