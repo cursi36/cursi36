@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cursi36" alt="cursi36" /></a> </p>
 
-- 🔭 I’m currently working on **computer vision for defect detection**
+- 🔭 I’m currently working on **machine learning and reinforcement learning for robotics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cursi36?tab=repositories](https://github.com/cursi36?tab=repositories)
 
