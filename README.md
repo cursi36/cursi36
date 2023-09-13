@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francesco Cursi</h1>
+<h1 align="center">Hi 👋, I'm Francesco</h1>
 <h3 align="center">A passionate Mechanical Engineer wih interests in Robotics and Machine Learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cursi36" alt="cursi36" /></a> </p>
@@ -7,15 +7,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cursi36?tab=repositories](https://github.com/cursi36?tab=repositories)
 
-- 📝 I regularly write articles on [www.cursifrancesco.com](www.cursifrancesco.com) | [https://medium.com/@cursious92](https://medium.com/@cursious92)
+- 📝 I regularly write articles on [https://medium.com/@cursious92](https://medium.com/@cursious92)
 
-
-- 📄 Know about my experiences [www.cursifrancesco.com](www.cursifrancesco.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [https://github.com/cursi36/CognitoShare](https://github.com/cursi36/CognitoShare)
-- [www.cursifrancesco.com](https://francescocursi.com/blog-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
